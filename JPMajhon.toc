@@ -1,5 +1,5 @@
 \contentsline {part}{I\hspace {1em}基本}{2}{}%
-\contentsline {section}{\numberline {1}算點}{2}{}%
+\contentsline {section}{\numberline {1}滿貫以下的算點}{2}{}%
 \contentsline {subsection}{\numberline {1.1}符數計算}{2}{}%
 \contentsline {subsection}{\numberline {1.2}基本點公式}{3}{}%
 \contentsline {section}{\numberline {2}牌桌禮儀}{4}{}%
