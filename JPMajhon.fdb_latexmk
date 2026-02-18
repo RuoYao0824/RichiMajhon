@@ -1,15 +1,21 @@
 # Fdb version 4
-["xdvipdfmx"] 1771409499.94041 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771409500.50541 0
-  "JPMajhon.xdv" 1771409499 6704 7c606623e5b7c0f313471d28d8f64911 "xelatex"
+["xdvipdfmx"] 1771413897.62656 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771413898.20393 0
+  "JPMajhon.xdv" 1771413897 15372 de132a41b1bb3208d67b9d2bc6894b6d "xelatex"
   (generated)
   "JPMajhon.pdf"
   (rewritten before read)
-["xelatex"] 1771409498.376 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1771409500.50049 0
+["xelatex"] 1771413896.03595 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1771413898.19987 0
   "C:/Users/ruoya/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1770854854 27177090 d0ddff39e8c0c8dc6e053db073f1ae37 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
+  "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
+  "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1761900684 5275 6f9d359641b36842524cdb97716ab75f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1761900684 5048 0270515b828149155424600fd2d58ac5 ""
@@ -26,10 +32,10 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "JPMajhon.aux" 1771409499 2018 66e3945e1b1a7f7fcfaad3deacc1ac45 "xelatex"
-  "JPMajhon.tex" 1771409497 757 7f188a24627db88bc2fc1a15c738c134 ""
-  "JPMajhon.toc" 1771409499 1161 3193518a0909ed38dfbc5d2cb147d03c "xelatex"
-  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771409497 757 7f188a24627db88bc2fc1a15c738c134 ""
+  "JPMajhon.aux" 1771413897 2329 e1ffa63804e1d75111a64568d2120be9 "xelatex"
+  "JPMajhon.tex" 1771413895 1989 c164191633cc6924ce7e2f5c7240f1e1 ""
+  "JPMajhon.toc" 1771413897 1348 ae0501e9fde3ea4be15574e962af1abb "xelatex"
+  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771413895 1989 c164191633cc6924ce7e2f5c7240f1e1 ""
   (generated)
   "JPMajhon.aux"
   "JPMajhon.log"
