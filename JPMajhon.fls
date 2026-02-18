@@ -45,6 +45,6 @@ INPUT C:\Users\ruoya\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT .\JPMajhon.toc
 INPUT .\JPMajhon.toc
 INPUT JPMajhon.toc
-OUTPUT JPMajhon.toc
 OUTPUT JPMajhon.xdv
+OUTPUT JPMajhon.toc
 INPUT JPMajhon.aux
