@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1771440391.8428 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771440392.40917 0
-  "JPMajhon.xdv" 1771440391 16212 50dd32132304114a419481c13b664979 "xelatex"
+["xdvipdfmx"] 1771440842.40825 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771440842.98232 0
+  "JPMajhon.xdv" 1771440842 16216 ba4197ce9ec9fdb6fe7cbbacc4c6d6f2 "xelatex"
   (generated)
   "JPMajhon.pdf"
   (rewritten before read)
-["xelatex"] 1771440390.24271 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1771440392.40415 0
+["xelatex"] 1771440828.95402 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1771440842.97634 0
   "C:/Users/ruoya/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1770854854 27177090 d0ddff39e8c0c8dc6e053db073f1ae37 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -22,6 +22,7 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1761900684 8449 8dc66c6c313c8eb2d774af83bca435dd ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/cjk/CJKfntef.sty" 1670582841 12851 25a9b5cc006609feb5c9a20ce24a5392 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/ctex/ctexhook.sty" 1657818410 6505 33157acfddefdd8fd513e2308e07a435 ""
+  "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-xetex.sty" 1759156201 164714 a0cc5579dc5aec4384653d8dd1b3832a ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg" 1759156201 549 c4adac819276241fea8eb79c5ab7b99e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty" 1759156201 3804 debc05110ffb506cef68ea4e72c7bcee ""
@@ -38,10 +39,10 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "JPMajhon.aux" 1771440391 2344 13fd17fccdb028f2333c837e5f3b091c "xelatex"
-  "JPMajhon.tex" 1771440387 2201 38340bc56f01394e72b500c213ccfe63 ""
-  "JPMajhon.toc" 1771440391 1363 95c3383b935743d1f011f4fffed70733 "xelatex"
-  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771440387 2201 38340bc56f01394e72b500c213ccfe63 ""
+  "JPMajhon.aux" 1771440842 2344 13fd17fccdb028f2333c837e5f3b091c "xelatex"
+  "JPMajhon.tex" 1771440827 2248 160fb5cf49cea3ff099a7ac68d7797ff ""
+  "JPMajhon.toc" 1771440842 1363 95c3383b935743d1f011f4fffed70733 "xelatex"
+  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771440827 2248 160fb5cf49cea3ff099a7ac68d7797ff ""
   (generated)
   "JPMajhon.aux"
   "JPMajhon.log"

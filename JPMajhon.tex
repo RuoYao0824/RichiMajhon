@@ -4,6 +4,7 @@
 \usepackage{xeCJK}
 \usepackage{fontspec}
 \usepackage{graphicx}
+\usepackage{float}
 \setmainfont{Times New Roman}
 \setCJKmainfont{kaiu.ttf}
 
@@ -22,6 +23,7 @@
 它簡單來說就是100以內的加法，應該不難吧(笑) \\
 首先，我們有底符20，接著看看自己的手牌構成:把所有順子刪掉只看刻子和雀頭。以中張明刻為基準2符，暗刻乘2，明槓再乘2，暗槓再乘2。么九牌的符數是中張的兩倍。
 整理成表格如下: \\
+\\
 \begin{tabular}[t]{l|llll}
 \ & 明刻 & 暗刻 & 明槓 & 暗槓 \\
 \hline\hline
@@ -32,6 +34,7 @@
 然後符合的全部加上去。接著是雀頭:役牌2符，連風牌4符(視規則而定)。最後的結果無條件進位到十位就是最後的符數。
 \subsection{基本點公式}
 把符數做以下運算:$符數 \times 2^{飜數+1}$，這就是基本點，接著參照以下表格: \\
+\\
 \begin{tabular}[t]{l|ll}
 \ & 子家 & 親家 \\
 \hline
@@ -42,7 +45,9 @@
 \end{tabular}
 \\
 為了避免每次都要用基本點公式硬算，我們有以下速查表: \\
-\begin{figure}
+\\
+\begin{figure}[H]
+\centering
 \includegraphics[width=0.8\textwidth]{點數速查表.jpg}
 \end{figure}
 \section{牌桌禮儀}
