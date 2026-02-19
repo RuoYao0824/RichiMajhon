@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  19 FEB 2026 02:53
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  19 FEB 2026 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -320,7 +320,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--52
  []
 
 [3]
-Overfull \vbox (263.83191pt too high) has occurred while \output is active []
+Overfull \vbox (219.40315pt too high) has occurred while \output is active []
 
  [4] (JPMajhon.aux)
  ***********
@@ -335,10 +335,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  5010 strings out of 402982
  151834 string characters out of 5448473
- 589173 words of memory out of 5000000
+ 590173 words of memory out of 5000000
  33685 multiletter control sequences out of 15000+600000
  632176 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,7n,93p,316b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on JPMajhon.xdv (4 pages, 16216 bytes).
+Output written on JPMajhon.xdv (4 pages, 18952 bytes).

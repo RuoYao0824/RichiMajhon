@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1771440842.40825 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771440842.98232 0
-  "JPMajhon.xdv" 1771440842 16216 ba4197ce9ec9fdb6fe7cbbacc4c6d6f2 "xelatex"
+["xdvipdfmx"] 1771478419.22806 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771478420.00125 0
+  "JPMajhon.xdv" 1771478418 18952 c97fc308f4598cc2132c3f5df4e2da19 "xelatex"
   (generated)
   "JPMajhon.pdf"
   (rewritten before read)
-["xelatex"] 1771440828.95402 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1771440842.97634 0
+["xelatex"] 1771478417.27719 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1771478419.99505 0
   "C:/Users/ruoya/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1770854854 27177090 d0ddff39e8c0c8dc6e053db073f1ae37 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -39,10 +39,10 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "JPMajhon.aux" 1771440842 2344 13fd17fccdb028f2333c837e5f3b091c "xelatex"
-  "JPMajhon.tex" 1771440827 2248 160fb5cf49cea3ff099a7ac68d7797ff ""
-  "JPMajhon.toc" 1771440842 1363 95c3383b935743d1f011f4fffed70733 "xelatex"
-  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771440827 2248 160fb5cf49cea3ff099a7ac68d7797ff ""
+  "JPMajhon.aux" 1771478418 2443 24145ef71d7a832f0ee2c2c1a3ce144a "xelatex"
+  "JPMajhon.tex" 1771478412 2556 ccf83a24bc1b4511abe93349bb9145aa ""
+  "JPMajhon.toc" 1771478418 1421 b022112f7f8ff30d2d4c0c8175f1f07f "xelatex"
+  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771478412 2556 ccf83a24bc1b4511abe93349bb9145aa ""
   (generated)
   "JPMajhon.aux"
   "JPMajhon.log"
