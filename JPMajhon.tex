@@ -85,7 +85,7 @@ $\mbox{基本點} = \mbox{符數} \times 2^{\mbox{飜數}+2}$ \\
     (2). 打出捨牌，並且橫向放置 \\
     (3). 確認沒有被榮和 \\
     (4). 放出立直棒 \\
-2. 不做特別的事，專心當自摸機器，不要看別人的牌/裏寶 \\
+2. 專心當自摸機器，不要看別人的牌/裏寶 \\
 3. 立直棒只接受千點棒，沒有千點棒的時候應該自己跟最多的人換點棒 \\
 \subsection{和了/流局及其宣言}
 1. 自摸和時不要把和了牌觸碰到手牌 \\
@@ -108,18 +108,43 @@ $\mbox{基本點} = \mbox{符數} \times 2^{\mbox{飜數}+2}$ \\
 \section{單張牌效率}
 依據形成搭子/面子的能力，有下表: \\
 \begin{tabular}[t]{l|l|l|l|l}
-    牌類型 & 3~7數牌 & 28數牌 & 19數牌 & 字牌 \\
+    牌類型 & $3\sim 7$數牌 & $28$數牌 & $19$數牌 & 字牌 \\
     \hline
     靠張能力 & 5種19張 & 4種15張 & 3種9張 & 1種3張 \\
     \hline
     好型(兩面)率 & 2種 & 1種 & 0種 & 1種(對子) \\ 
 \end{tabular}
 \section{搭子牌效率}
+搭子基本上分為四類:兩面($34$)、嵌張($35$)、邊張($12$)及對子($33$)。其中兩面搭子是最優秀的，因為它能進兩種牌，是嵌張及邊張的兩倍。 \\
+而嵌張又優於邊張，因為嵌張只需進一張牌便可成兩面($35\rightarrow 56$)，而邊張需要兩次進牌($12\rightarrow 24\rightarrow 45$)。 \\
+而對子比較特別，它本身的牌效率很低，但又是組成和牌型的必要條件，所以一般不會特別去拆對子(除非對子有三組以上)，且若是役牌對子則價值會大幅提高。
 \section{名詞解釋:有效牌/向聽數}
+\subsection{有效牌}
+指能讓手牌的進張數增加或向聽數減少的牌
+\subsection{向聽數}
+指最少需要幾張牌才能聽牌，要注意的是向聽數一次摸牌最多只會$-1$
 \section{對子理論及三張複合搭}
 \subsection{搭子對}
+有兩面對($334$)、嵌張對($244$)、邊張對($112$)三種，特性為可同時進成順子或刻子，使有效牌增加兩枚
 \subsection{兩嵌}
-\subsection{雙雀頭理論}
+指$357$這種牌型，可以進$46$形成順子，進張與兩面相同，算是相當強大的形狀，但要多占用一張牌的位子而使得效率低於兩面
+\subsection{雀頭理論}
+\subsubsection{雙雀頭最強}
+有兩個雀頭於手牌中時，兩個雀頭於另一邊成刻後皆可直接作為雀頭而不必另找，使進張數多出四枚
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{兩嵌.png}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{兩面對.png}
+\end{figure}
+\subsubsection{三雀頭最弱}
+有三個雀頭於手牌中時多半會選擇直接拆掉一個最弱的對子以達成雙雀頭的情況
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{三雀頭.png}
+\end{figure}
 \section{進階複合搭}
 \subsection{四連}
 \subsection{中膨}
@@ -127,6 +152,7 @@ $\mbox{基本點} = \mbox{符數} \times 2^{\mbox{飜數}+2}$ \\
 \subsection{螺絲}
 \subsection{跳張}
 \subsection{兩面嵌張(DNA)}
+\subsection{兩嵌對}
 \section{五搭理論}
 \section{一向聽集中理論}
 \section{有效牌重複理論}

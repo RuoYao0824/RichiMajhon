@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  23 FEB 2026 09:10
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  23 FEB 2026 14:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,9 +392,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--99
 File: 22345m345p345678s.png Graphic file (type bmp)
 <22345m345p345678s.png>
  [5]
-Overfull \vbox (341.50995pt too high) has occurred while \output is active []
+File: 兩嵌.png Graphic file (type bmp)
+<兩嵌.png>
+File: 兩面對.png Graphic file (type bmp)
+<兩面對.png>
+File: 三雀頭.png Graphic file (type bmp)
+<三雀頭.png>
+ [6]
+Overfull \vbox (186.23976pt too high) has occurred while \output is active []
 
- [6] (JPMajhon.aux)
+ [7] (JPMajhon.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -405,12 +412,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5620 strings out of 402982
- 162751 string characters out of 5448473
+ 5647 strings out of 402982
+ 163075 string characters out of 5448473
  612944 words of memory out of 5000000
- 34282 multiletter control sequences out of 15000+600000
+ 34306 multiletter control sequences out of 15000+600000
  632176 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,7n,93p,316b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on JPMajhon.xdv (6 pages, 60440 bytes).
+Output written on JPMajhon.xdv (7 pages, 75128 bytes).
