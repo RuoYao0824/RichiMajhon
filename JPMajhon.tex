@@ -27,23 +27,25 @@
 整理成表格如下: \\
 \\
 \begin{tabular}[t]{l|llll}
-\ & 明刻 & 暗刻 & 明槓 & 暗槓 \\
-\hline\hline
-中張 & 2 & 4 & 8 & 16 \\
-么九 & 4 & 8 & 16 & 32 \\
+    \ & 明刻 & 暗刻 & 明槓 & 暗槓 \\
+    \hline\hline
+    中張 & 2 & 4 & 8 & 16 \\
+    么九 & 4 & 8 & 16 & 32 \\
 \end{tabular}
 \\
 然後符合的全部加上去。接著是雀頭:役牌2符，連風牌4符(視規則而定)。最後的結果無條件進位到十位就是最後的符數。
 \subsection{基本點公式}
-把符數做以下運算:$符數 \times 2^{飜數+1}$，這就是基本點，接著參照以下表格: \\
+把符數做以下運算: \\
+$\mbox{基本點} = \mbox{符數} \times 2^{\mbox{飜數}+2}$ \\
+，接著參照以下表格:
 \\
 \begin{tabular}[t]{l|ll}
-\ & 子家 & 親家 \\
-\hline
-榮和 & 基本點 $\times 4$ & 基本點 $\times 6$ \\
-\hline
-自摸和 & 親:基本點 $\times 2$ & 三家各基本點 $\times 2$ \\
-\ & 子:基本點 $\times 2$ \\
+    \ & 子家 & 親家 \\
+    \hline
+    榮和 & 基本點 $\times 4$ & 基本點 $\times 6$ \\
+    \hline
+    自摸和 & 親:基本點 $\times 2$ & 三家各基本點 $\times 2$ \\
+    \ & 子:基本點 $\times 2$ \\
 \end{tabular}
 \\
 為了避免每次都要用基本點公式硬算，我們有以下速查表: \\
@@ -104,8 +106,27 @@
 若這副牌為門清，則打點為斷平三色的12000點。但若這副牌有副露，則僅剩斷么三色的2900點。\\
 由此可知，為了保全打點門清是十分有必要的。而因為要盡量不從別人的牌副露，了解如何讓自己的手牌效率最大化就是一門必學的課題。
 \section{單張牌效率}
+依據形成搭子/面子的能力，有下表: \\
+\begin{tabular}[t]{l|l|l|l|l}
+    牌類型 & 3~7數牌 & 28數牌 & 19數牌 & 字牌 \\
+    \hline
+    靠張能力 & 5種19張 & 4種15張 & 3種9張 & 1種3張 \\
+    \hline
+    好型(兩面)率 & 2種 & 1種 & 0種 & 1種(對子) \\ 
+\end{tabular}
+\section{搭子牌效率}
+\section{名詞解釋:有效牌/向聽數}
 \section{對子理論及三張複合搭}
+\subsection{搭子對}
+\subsection{兩嵌}
+\subsection{雙雀頭理論}
 \section{進階複合搭}
+\subsection{四連}
+\subsection{中膨}
+\subsection{亞兩面}
+\subsection{螺絲}
+\subsection{跳張}
+\subsection{兩面嵌張(DNA)}
 \section{五搭理論}
 \section{一向聽集中理論}
 \section{有效牌重複理論}
@@ -115,7 +136,7 @@
 \section{現物}
 \section{筋牌}
 \section{壁牌}
-\subsection{早外}
+\section{早外}
 \section{一些過時的東西}
 \subsection{裏筋}
 \subsection{間四}
