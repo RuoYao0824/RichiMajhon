@@ -1,10 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1771826944.97093 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771826945.91359 0
-  "JPMajhon.xdv" 1771826944 75128 dcca6182f368c3eb8c48e59d89656a87 "xelatex"
+["xdvipdfmx"] 1771905430.93378 "%OUTDIR%/JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771905432.03796 0
+  "%OUTDIR%/JPMajhon.xdv" 1771905430 78988 60c8f97f465de11b3ef0d000d3c37e60 "xelatex"
   (generated)
   "JPMajhon.pdf"
   (rewritten before read)
-["xelatex"] 1771826942.7866 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1771826945.9074 0
+["xelatex"] 1771905428.89402 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "%OUTDIR%/JPMajhon.xdv" "JPMajhon" 1771905432.0308 0
+  "%OUTDIR%/JPMajhon.aux" 1771905430 5040 95848f7add62eed10e7a8a5a7eaf73a6 "xelatex"
+  "%OUTDIR%/JPMajhon.toc" 1771905430 2993 0ec971213e64bd1e88b9934cffc45252 "xelatex"
   "22345m345p345678s.png" 1771802457 63798 8118a3b51e2589582571d434492595fe ""
   "C:/Users/ruoya/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1770854854 27177090 d0ddff39e8c0c8dc6e053db073f1ae37 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -44,13 +46,11 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "JPMajhon.aux" 1771826944 5040 e369862fd35c3199a490f84e503096c3 "xelatex"
-  "JPMajhon.tex" 1771826941 7502 4043e04379dc3ca64e423cda38d11de5 ""
-  "JPMajhon.toc" 1771826944 2993 75f9536de02673083e89866a7605db0c "xelatex"
-  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771826941 7502 4043e04379dc3ca64e423cda38d11de5 ""
+  "JPMajhon.tex" 1771905427 8199 cbec6023df9497daa92cf096734e8371 ""
+  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771905427 8199 cbec6023df9497daa92cf096734e8371 ""
   (generated)
-  "JPMajhon.aux"
-  "JPMajhon.log"
-  "JPMajhon.toc"
-  "JPMajhon.xdv"
+  "%OUTDIR%/JPMajhon.aux"
+  "%OUTDIR%/JPMajhon.log"
+  "%OUTDIR%/JPMajhon.toc"
+  "%OUTDIR%/JPMajhon.xdv"
   (rewritten before read)

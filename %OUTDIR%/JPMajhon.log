@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  23 FEB 2026 14:09
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  24 FEB 2026 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -213,7 +213,7 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"[kaiu.ttf]/OT:script=hani;language=dflt;"
 
- (JPMajhon.aux)
+ (c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.aux)
 \openout1 = `JPMajhon.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -329,7 +329,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 16.
-(JPMajhon.toc
+(c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.toc
 
 LaTeX Font Warning: Font shape `TU/kaiu.ttf(0)/b/n' undefined
 (Font)              using `TU/kaiu.ttf(0)/m/n' instead on input line 1.
@@ -398,10 +398,10 @@ File: 兩面對.png Graphic file (type bmp)
 <兩面對.png>
 File: 三雀頭.png Graphic file (type bmp)
 <三雀頭.png>
- [6]
-Overfull \vbox (186.23976pt too high) has occurred while \output is active []
+ [6] [7]
+Overfull \vbox (103.17116pt too high) has occurred while \output is active []
 
- [7] (JPMajhon.aux)
+ [8] (c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -412,12 +412,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5647 strings out of 402982
- 163075 string characters out of 5448473
+ 5648 strings out of 402982
+ 163255 string characters out of 5448473
  612944 words of memory out of 5000000
  34306 multiletter control sequences out of 15000+600000
  632176 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,7n,93p,316b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on JPMajhon.xdv (7 pages, 75128 bytes).
+Output written on c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.xdv (8 pages, 78988 bytes).
