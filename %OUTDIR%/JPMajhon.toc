@@ -24,8 +24,8 @@
 \contentsline {section}{\numberline {8}進階複合搭}{7}{}%
 \contentsline {subsection}{\numberline {8.1}四連}{7}{}%
 \contentsline {subsection}{\numberline {8.2}中膨}{7}{}%
-\contentsline {subsection}{\numberline {8.3}亞兩面}{8}{}%
-\contentsline {subsection}{\numberline {8.4}螺絲}{8}{}%
+\contentsline {subsection}{\numberline {8.3}亞兩面}{7}{}%
+\contentsline {subsection}{\numberline {8.4}螺絲}{7}{}%
 \contentsline {subsection}{\numberline {8.5}跳張}{8}{}%
 \contentsline {subsection}{\numberline {8.6}兩面嵌張(DNA)}{8}{}%
 \contentsline {subsection}{\numberline {8.7}兩嵌對}{8}{}%
