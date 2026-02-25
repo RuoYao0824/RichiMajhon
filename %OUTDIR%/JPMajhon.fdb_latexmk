@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1771922833.70371 "%OUTDIR%/JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1771922834.86955 0
-  "%OUTDIR%/JPMajhon.xdv" 1771922833 86324 f2f612246042077d253a7b5a58ffa9d4 "xelatex"
+["xdvipdfmx"] 1772009415.05414 "%OUTDIR%/JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1772009416.41075 0
+  "%OUTDIR%/JPMajhon.xdv" 1772009414 93192 63ecb529b103d595563b3a62bcdf6700 "xelatex"
   (generated)
   "JPMajhon.pdf"
   (rewritten before read)
-["xelatex"] 1771922831.44636 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "%OUTDIR%/JPMajhon.xdv" "JPMajhon" 1771922834.86354 0
-  "%OUTDIR%/JPMajhon.aux" 1771922833 5040 4571bb0b3140b587af23a5e7c3941bfe "xelatex"
-  "%OUTDIR%/JPMajhon.toc" 1771922833 2993 b4f491c18c25e8fd483ffabef684da70 "xelatex"
+["xelatex"] 1772009412.8315 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "%OUTDIR%/JPMajhon.xdv" "JPMajhon" 1772009416.40498 0
+  "%OUTDIR%/JPMajhon.aux" 1772009414 4952 7b5b9e506d45214f36499567f7cea7b9 "xelatex"
+  "%OUTDIR%/JPMajhon.toc" 1772009414 2946 ad3ddbb9c5143cf718b7a348787ba93c "xelatex"
   "22345m345p345678s.png" 1771802457 63798 8118a3b51e2589582571d434492595fe ""
   "C:/Users/ruoya/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1770854854 27177090 d0ddff39e8c0c8dc6e053db073f1ae37 ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -46,8 +46,8 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "JPMajhon.tex" 1771922827 9756 8f18f01945d5c6073615adda84705804 ""
-  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1771922827 9756 8f18f01945d5c6073615adda84705804 ""
+  "JPMajhon.tex" 1772009406 11184 cc599ba4ef08bf06e1e5841c4f9b1318 ""
+  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1772009406 11184 cc599ba4ef08bf06e1e5841c4f9b1318 ""
   (generated)
   "%OUTDIR%/JPMajhon.aux"
   "%OUTDIR%/JPMajhon.log"
