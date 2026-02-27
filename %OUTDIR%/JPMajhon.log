@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  25 FEB 2026 16:50
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  27 FEB 2026 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -434,7 +434,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--214
 
 File: 345999m677p348s北北.png Graphic file (type bmp)
 <345999m677p348s北北.png>
-[8] [9] (c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.aux)
+[8]
+File: 現物.png Graphic file (type bmp)
+<現物.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+File: 字牌銃率表.png Graphic file (type bmp)
+<字牌銃率表.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
+
+ []
+
+[9]
+File: 兩面.png Graphic file (type bmp)
+<兩面.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--246
+
+ []
+
+File: 數牌危險度表.png Graphic file (type bmp)
+<數牌危險度表.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--251
+
+ []
+
+[10] [11] [12] (c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -445,12 +480,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5693 strings out of 402982
- 164197 string characters out of 5448473
+ 5732 strings out of 402982
+ 164734 string characters out of 5448473
  616944 words of memory out of 5000000
- 34346 multiletter control sequences out of 15000+600000
+ 34381 multiletter control sequences out of 15000+600000
  632176 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,8n,93p,316b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.xdv (9 pages, 93192 bytes).
+Output written on c:\LaTeX\RichiMajhon\%OUTDIR%\JPMajhon.xdv (12 pages, 103272 bytes).

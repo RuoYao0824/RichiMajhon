@@ -222,11 +222,36 @@ $\mbox{基本點} = \mbox{符數} \times 2^{\mbox{飜數}+2}$ \\
 指兩組搭子(牌)的有效牌出現重複使得兩者牌效皆降低的情形。典型狀況如$14$的$23$重複或$3467$的$5$重複。
 \part{基礎防守理論}
 \section{前言}
+日麻是個重防守的遊戲，下車是一門艱深的學問以至於防守可以自成一個單元出來講，然後防守畢竟是從牌效起家，所以先學好牌效也是必要的。另外，{\Large 不要亂讀牌!}不要去想那些牌是危險的，而是要想那些牌是安全的。 \\
+另外，防守理論的基本在於什麼不會輸兩面，筋及壁牌皆是如此。
 \section{現物}
+防守一切的一切都源於"振聽規則"，也就是不能若自己打出過的牌有自己所聽的牌則不能榮和。依此我們可以得到一種完全安牌:"現物"，也就是聽牌家牌河中的所有牌都不會放銃。 \\
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{現物.png}
+    \caption{南東北中九萬三餅三萬都不會點}
+\end{figure}
+接著因為"同巡振聽"，所以上家打出的牌在當巡內不會放銃給任何一家。最後是立直後其他家打出的牌也等同於現物。 \\
+\section{字牌}
+現四張的字牌只會點給國士，所以也可以看成一種安牌。現三張的字牌也只會點給地獄單騎，安全性算是比較高的。要注意的是其他字牌銃率就沒那麼低了，數據見下表: \\
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{字牌銃率表.png}
+\end{figure}
 \section{筋牌}
+最泛用的防守技巧，但只能防兩面。這裡的數據基礎是兩面聽佔了約6成 \\
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{兩面.png}
+\end{figure}
+可以把$1$到$9$的數牌分成三條"筋":$147$、$258$、$369$，因為當兩面聽牌時必定是聽一條筋上的牌(例如$23$聽$14$)，所以當牌河中出現過一張數牌時(例如$4$)就不會兩面聽筋上的牌($17$)。此時的$17$就相對其他數牌來的安全。數據見下表: \\
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{數牌危險度表.png}
+\end{figure}
 \section{壁牌}
 \section{早外}
-\section{一些過時的東西}
+\section{補充一些過時的東西}
 \subsection{裏筋}
 \subsection{間四}
 \subsection{跨筋}
