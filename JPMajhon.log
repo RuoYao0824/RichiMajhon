@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  9 MAR 2026 12:18
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  10 MAR 2026 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -489,7 +489,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--273
 
  []
 
-[11] [12] [13] [14] (JPMajhon.aux)
+[11] [12] [13]
+File: 234m34r5567p11788s.png Graphic file (type bmp)
+<234m34r5567p11788s.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+[14]
+File: 34m22456p345678s白.png Graphic file (type bmp)
+<34m22456p345678s白.png>
+File: 234m34r5567p11788s.png Graphic file (type bmp)
+<234m34r5567p11788s.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--345
+
+ []
+
+File: 133m456p33678s中中中.png Graphic file (type bmp)
+<133m456p33678s中中中.png>
+File: 123m44567p33456s白.png Graphic file (type bmp)
+<123m44567p33456s白.png>
+File: 123m23467p456789s.png Graphic file (type bmp)
+<123m23467p456789s.png>
+[15]
+File: 1234r56m55678p66s白.png Graphic file (type bmp)
+<1234r56m55678p66s白.png>
+File: 33455m11199p666s白.png Graphic file (type bmp)
+<33455m11199p666s白.png>
+ [16] (JPMajhon.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -500,12 +534,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5767 strings out of 402982
- 165268 string characters out of 5448473
+ 5830 strings out of 402982
+ 166945 string characters out of 5448473
  615944 words of memory out of 5000000
- 34413 multiletter control sequences out of 15000+600000
+ 34469 multiletter control sequences out of 15000+600000
  632176 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,8n,93p,316b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on JPMajhon.xdv (14 pages, 156168 bytes).
+Output written on JPMajhon.xdv (16 pages, 175800 bytes).
