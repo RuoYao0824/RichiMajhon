@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  11 MAR 2026 07:46
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.1) (preloaded format=xelatex 2026.2.12)  11 MAR 2026 15:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -548,7 +548,29 @@ File: 2m1336899p4s南西白發發.png Graphic file (type bmp)
 <2m1336899p4s南西白發發.png>
 File: 3456m55667p88s白發發.png Graphic file (type bmp)
 <3456m55667p88s白發發.png>
- [22] [23] (JPMajhon.aux)
+File: 1135m667p6788s白發發.png Graphic file (type bmp)
+<1135m667p6788s白發發.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--437
+
+ []
+
+[22]
+File: 1113r5m667p678s白發發.png Graphic file (type bmp)
+<1113r5m667p678s白發發.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--444
+
+ []
+
+File: 22m24r57p34456s白發發.png Graphic file (type bmp)
+<22m24r57p34456s白發發.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--451
+
+ []
+
+[23] [24] (JPMajhon.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -559,12 +581,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5893 strings out of 402982
- 168370 string characters out of 5448473
+ 5920 strings out of 402982
+ 169099 string characters out of 5448473
  610944 words of memory out of 5000000
- 34525 multiletter control sequences out of 15000+600000
+ 34549 multiletter control sequences out of 15000+600000
  632176 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  74i,8n,93p,316b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on JPMajhon.xdv (23 pages, 195396 bytes).
+Output written on JPMajhon.xdv (24 pages, 203488 bytes).

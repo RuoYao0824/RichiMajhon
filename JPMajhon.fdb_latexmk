@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1773186381.10693 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1773186390.65969 0
-  "JPMajhon.xdv" 1773186380 195396 9a6280c58322cdd3453cd19dcfa844db "xelatex"
+["xdvipdfmx"] 1773213135.63716 "JPMajhon.xdv" "JPMajhon.pdf" "JPMajhon" 1773213143.4555 0
+  "JPMajhon.xdv" 1773213135 203488 98bedbcc45eeec887c486d6e8578d6d2 "xelatex"
   (generated)
   "JPMajhon.pdf"
   (rewritten before read)
-["xelatex"] 1773186377.9985 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1773186390.6459 0
+["xelatex"] 1773213132.52117 "c:/LaTeX/RichiMajhon/JPMajhon.tex" "JPMajhon.xdv" "JPMajhon" 1773213143.44496 0
   "123m23467p456789s.png" 1773125562 69737 e6ad24133d386c8f793da9f27611b8b6 ""
   "134777m123p12388s.png" 1773184724 54320 e7d6b87a2728a7bf4603352ed3e1cf7b ""
   "22345m345p345678s.png" 1771802457 63798 8118a3b51e2589582571d434492595fe ""
@@ -51,10 +51,10 @@
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.cfg" 1659726270 408 7369c27beaa819c5f46de3795b22ee3e ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/ruoya/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
-  "JPMajhon.aux" 1773186380 7690 6a9453be97b63c60e9608bd20e6c6b41 "xelatex"
-  "JPMajhon.tex" 1773186373 26972 3440c8bfb292cc478e29c9c0adde1e36 ""
-  "JPMajhon.toc" 1773186380 3998 892dfe512f69c8f19ae4918dfd4cd7a9 "xelatex"
-  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1773186373 26972 3440c8bfb292cc478e29c9c0adde1e36 ""
+  "JPMajhon.aux" 1773213135 7842 0c8912e93e3f8f25a7e977885d6c7938 "xelatex"
+  "JPMajhon.tex" 1773213127 28594 9cf8eea353afa37e02b1006d34cab0f0 ""
+  "JPMajhon.toc" 1773213135 3998 892dfe512f69c8f19ae4918dfd4cd7a9 "xelatex"
+  "c:/LaTeX/RichiMajhon/JPMajhon.tex" 1773213127 28594 9cf8eea353afa37e02b1006d34cab0f0 ""
   "r555m12388p556778s.png" 1773183684 56963 22cb60b758e339dac5880ac364c2ee5e ""
   (generated)
   "JPMajhon.aux"
