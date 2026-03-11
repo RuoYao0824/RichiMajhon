@@ -61,4 +61,3 @@
 \contentsline {part}{V\hspace {1em}基礎攻守判斷}{18}{}%
 \contentsline {subsection}{\numberline {21.5}立直判斷}{18}{}%
 \contentsline {subsection}{\numberline {21.6}鳴牌判斷}{22}{}%
-\contentsline {part}{VI\hspace {1em}名詞索引}{23}{}%
